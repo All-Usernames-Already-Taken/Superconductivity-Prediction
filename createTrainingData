@@ -1,0 +1,1 @@
+write.csv(train, "train.csv", row.names = F)
